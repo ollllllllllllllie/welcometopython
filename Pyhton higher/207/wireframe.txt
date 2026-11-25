@@ -1,0 +1,44 @@
+#Wireframe 1
+
+
+- Temperature Converter -
+
+===========================
+
+Welcome to temperature converting
+
+please input your temperature and the unit below:
+
+Temperature:_______________
+
+Unit:______________________
+
+
+
+#Wireframe 2 (if temperature or unit is invalid)
+
+
+- Temperature Converter -
+
+===========================
+
+Welcome to temperature converting
+
+please input your temperature and the unit below:
+
+Temperature:_______________
+
+Unit:______________________
+
+ERROR-INVALID INPUT, PLEASE INPUT A VALID TEMPREATURE UNIT AND TEMPERATURE VALUE
+
+
+#Wireframe 3 (Displaying results)
+
+
+- Temperature Converter -
+
+===========================
+
+Your converted temperature is: _______________
+
